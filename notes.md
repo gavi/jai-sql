@@ -1,6 +1,6 @@
 # Typical Create Directory Commands
 
-## Setup
+## Setup for Git
 
 ```
 mkdir jai
@@ -48,5 +48,18 @@ This phase is called Staging
 git add test.sql
 ```
 
+To commit
 
+```
+git commit -m "Initial sql file"
+```
 
+to Add notes.md
+
+```
+git add notes.md
+```
+To commit
+```
+git commit -m "notes added"
+```
