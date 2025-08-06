@@ -63,3 +63,7 @@ To commit
 ```
 git commit -m "notes added"
 ```
+to clone a repository 
+```
+git clone repository-url
+```
